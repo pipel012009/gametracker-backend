@@ -87,6 +87,10 @@ El servidor estará disponible en `http://localhost:5000`
 
 ## 🌱 Seed Database (Opcional)
 
+## Notas
+Proyecto desarrollado para gestión de videojuegos
+
+
 Para poblar la base de datos con datos de ejemplo:
 ```bash
 npm run seed
